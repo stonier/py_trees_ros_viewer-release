@@ -6,6 +6,10 @@ Forthcoming
 -----------
 * ...
 
+0.2.3 (2020-02-24)
+------------------
+* [backend] capture paralell policy details
+
 0.2.2 (2019-12-30)
 ------------------
 * [docs] using ros2 launch, not ros2 run for the tutorials
