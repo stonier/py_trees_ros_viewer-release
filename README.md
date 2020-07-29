@@ -1,3 +1,26 @@
+## py_trees_ros_viewer (foxy) - 0.2.3-1
+
+The packages in the `py_trees_ros_viewer` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --rosdistro foxy py_trees_ros_viewer` on `Wed, 29 Jul 2020 00:50:44 -0000`
+
+The `py_trees_ros_viewer` package was released.
+
+Version of package(s) in repository `py_trees_ros_viewer`:
+
+- upstream repository: https://github.com/splintered-reality/py_trees_ros_viewer.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## py_trees_ros_viewer (eloquent) - 0.2.3-1
 
 The packages in the `py_trees_ros_viewer` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --track eloquent --rosdistro eloquent py_trees_ros_viewer` on `Sat, 01 Feb 2020 15:16:40 -0000`
